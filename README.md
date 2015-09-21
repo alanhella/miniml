@@ -1,6 +1,9 @@
 # miniml
 A minimal Tumblr theme
 
+##Images
+Comming soon
+
 ##Supported post types:
 - Text
 - Quote

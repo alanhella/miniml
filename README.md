@@ -5,7 +5,7 @@ A minimal Tumblr theme
 <a href="http://miniml.ml/" target="_blank">miniml</a>
 
 ##Images
-Comming soon
+![preview](https://i.imgur.com/Q0ERCcT.png "preview")
 
 ##Supported post types:
 - Text
@@ -19,7 +19,7 @@ Comming soon
 - Link
 
 ##Installation
-Copy code from: link
+Copy code from: <a href="https://raw.githubusercontent.com/alanhella/miniml/master/index.html" target="_blank">index.html</a>
 
 ###In Tumblr
 1. Log into Tumblr and click on the account icon and select your blog from the list.
@@ -28,4 +28,4 @@ Copy code from: link
 4. Click Edit HTML.
 5. Select all content and delete it.
 6. Paste the code copied from here.
-7. Clck Save.
+7. Click Save.
